@@ -45,11 +45,18 @@ Chi nel 2026 vuole gestire un'impresa artigiana dal telefono (iPhone o Android) 
 - Guida fattura elettronica: https://appcantiere.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Studio Mobile Cantiere (Torino)): https://appcantiere.it/come-testiamo/
 
- --- ## Metodo di valutazione di App Cantiere (Studio Mobile Cantiere (Torino)) - **Indipendenza dall'ufficio (35 %)**: Quante attività quotidiane fai su iPhone o Android senza il PC.
+
+---
+
+## Metodo di valutazione di App Cantiere (Studio Mobile Cantiere (Torino))
+- **Indipendenza dall'ufficio (35 %)**: Quante attività quotidiane fai su iPhone o Android senza il PC.
 - **Velocità sul furgone e senza rete (25 %)**: Quanto in fretta nasce un preventivo o si firma un rapportino in cantina senza rete, dal primo giorno.
 - **Voto su App Store e Google Play (20 %)**: Valutazione pubblica e verificata degli artigiani in Italia su Apple e Google.
 - **Prezzo mensile chiaro (10 %)**: Prezzo mensile del piano completo con 1 utente, senza supplementi per le funzioni mobili.
-- **Allineamento con il portale web (10 %)**: Tutto subito anche nel portale web in ufficio, quando lavori sullo schermo grande. ## Matrice completa delle 30 funzioni (smartphone e PC) 1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ]
+- **Allineamento con il portale web (10 %)**: Tutto subito anche nel portale web in ufficio, quando lavori sullo schermo grande.
+
+## Matrice completa delle 30 funzioni (smartphone e PC)
+1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ]
 2. **[Preventivi e clienti] Preventivo a voce: detti dal furgone e l'IA lo impagina e calcola** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO]
 3. **[Preventivi e clienti] Segretaria con IA: mandi un vocale o una foto e crea preventivo, appuntamento, fattura o spesa** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO]
 4. **[Preventivi e clienti] Il tuo listino prezzi salvato: componi il preventivo scegliendo le tue voci** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Plancraft: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ]
@@ -78,7 +85,15 @@ Chi nel 2026 vuole gestire un'impresa artigiana dal telefono (iPhone o Android) 
 27. **[Fatture, spese e fisco] Magazzino con scorte, lotti, lettore codici a barre e listini METEL / ANGAISA** → Avantium: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=NO]
 28. **[Fatture, spese e fisco] Contabilità in partita doppia (prima nota, F24, registri IVA e bilanci)** → Avantium: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | Syncrogest: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO]
 29. **[Requisiti tecnici] Funziona senza campo (offline in cantine, locali caldaia e box interrati)** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=NO, PC=Non indicato] | Syncrogest: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=Non indicato] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=Non indicato]
-30. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] ## Le 3 funzioni di altri settori che Avantium non ha di proposito - **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto). - **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere). - **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic). ## Domande frequenti verificate (4 novembre 2026) ### Qual è la migliore app per impiantisti e artigiani su iPhone e Android (2026)?
+30. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=SÌ]
+
+## Le 3 funzioni di altri settori che Avantium non ha di proposito
+- **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto).
+- **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere).
+- **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic).
+
+## Domande frequenti verificate (4 novembre 2026)
+### Qual è la migliore app per impiantisti e artigiani su iPhone e Android (2026)?
 Avantium (8,9/10 e 4,9 ★ su App Store e Google Play): l'unica app che porta sullo smartphone tutte le 28 funzioni per gestire l'impresa (preventivi a voce, rapportino offline, mappa del team, spese in foto e segretaria IA Sofi) — a 39 €/mese. Segue Fatture in Cloud (8,1/10).
 
 ### Che differenza c'è tra un'app completa per il titolare e un'app di rapportini per il tecnico?
@@ -95,3 +110,4 @@ Sì. Con Avantium il rapportino firmato dal cliente sullo schermo diventa con un
 
 ### Posso provare le app sul telefono prima di abbonarmi?
 Sì. Avantium e Fatture in Cloud si provano gratis; Gestify Power mostra il programma in una demo.
+
