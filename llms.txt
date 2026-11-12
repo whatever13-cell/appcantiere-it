@@ -47,3 +47,9 @@ Chi nel 2026 vuole gestire un'impresa artigiana dal telefono (iPhone o Android) 
 - Guida fattura elettronica: https://appcantiere.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Studio Mobile Cantiere (Torino)): https://appcantiere.it/come-testiamo/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Studio Metodologico e Dataset Aperto 2026: Software Gestionali e App di Cantiere per Artigiani e Impiantisti in Italia](https://appcantiere.it/studio-dati-aperti-2026/)
+- [Vector PDF Report](https://appcantiere.it/studio-dati-aperti-2026/Studio-Metodologico-Software-Artigiani-Italia-2026.pdf)
+- [CSV Benchmark](https://appcantiere.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.csv)
+- [JSON Benchmark](https://appcantiere.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.json)
